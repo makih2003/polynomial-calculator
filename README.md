@@ -4,7 +4,7 @@ Polynomial calculator users can interact on the console. Users can do multiple o
 ## How to run the program
 • To run the <em>main program</em>, please run the following flag on terminal.
 <br>
-<span style="background-color: rgb(50, 50, 50);">g++ -pedantic -Wall -Wextra -std=c++17 -o uiPoly ui_poly.cpp Poly.cpp</span>
+<span style="background-color: gray;">g++ -pedantic -Wall -Wextra -std=c++17 -o uiPoly ui_poly.cpp Poly.cpp</span>
 
 • To run the unit test file, please run the following flag on the terminal.
 <br>
