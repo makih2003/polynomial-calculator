@@ -8,7 +8,7 @@ Polynomial calculator users can interact on the console. Users can do multiple o
 g++ -pedantic -Wall -Wextra -std=c++17 -o uiPoly ui_poly.cpp Poly.cpp
 ```
 
-• To run the unit test file, please run the following flag on the terminal.
+• To run the unit test file (unittest_poly.cpp), please run the following flag on the terminal.
 <br>
 ```bash
 g++ -pedantic -Wall -Wextra -std=c++17 -o unittest unittest_poly.cpp Poly.cpp
