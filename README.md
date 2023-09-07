@@ -13,3 +13,10 @@ g++ -pedantic -Wall -Wextra -std=c++17 -o uiPoly ui_poly.cpp Poly.cpp
 ```bash
 g++ -pedantic -Wall -Wextra -std=c++17 -o unittest unittest_poly.cpp Poly.cpp
 ```
+
+## File Structure
+### Poly.h
+Header file contains Poly class definition
+
+### Poly.cpp
+The implementation file of Poly class
