@@ -20,3 +20,10 @@ Header file contains Poly class definition
 
 ### Poly.cpp
 The implementation file of Poly class
+
+### ui_poly.cpp
+The main program file that contains the interactive calculator
+
+### unittest_poly.cpp
+The unit test file used doctest framework
+
